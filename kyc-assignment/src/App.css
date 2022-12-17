@@ -1,0 +1,32 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap'); */
+
+* {
+  box-sizing: border-box;
+
+  /* color: black; */
+  /* font-weight: 400; */
+}
+
+body {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+html,
+body,
+div,
+p,
+ul,
+li {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  /* font-family: "Roboto", sans-serif; */
+  font-family: "Poppins", sans-serif;
+  font-weight: 100;
+}

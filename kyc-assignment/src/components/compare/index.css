@@ -1,0 +1,37 @@
+.compare-main-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.tool {
+  max-width: 200px;
+  margin-bottom: 20px;
+}
+
+.ant-modal {
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+}
+
+/* .center-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+} */
+
+.added-info {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.added-info .span-ele {
+  margin-right: 5px;
+  margin-left: 5px;
+}

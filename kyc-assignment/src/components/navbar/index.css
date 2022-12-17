@@ -1,0 +1,27 @@
+
+.nav {
+  position: fixed;
+  background: #000;
+  height: 8vh; 
+  width: 100%;
+  z-index: 1000;
+}
+
+
+.nav li {
+  display: inline-block;
+  list-style: none;
+  height: 8vh; 
+  line-height: 8vh; 
+  padding: 0 40px; 
+}
+
+.nav li:hover {
+  background: red;
+  transition: background .3s;
+}
+
+.nav-link {
+  color: #fff;
+  text-decoration: none;
+}
